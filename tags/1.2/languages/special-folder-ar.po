@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Special Folder\n"
+"POT-Creation-Date: 2016-12-22 12:01+0300\n"
+"PO-Revision-Date: 2016-12-22 12:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+# إضافة ملف خاص من إنتاج فريق البرمجة في لجنة الدعوة الإلكترونية التابعة لجمعية النجاة الخيرية
+#. Plugin Name of the plugin/theme
+#: index.php:45 special-folder/trunk/index.php:45
+msgid "Special Folder"
+msgstr "ملف خاص"
+
+#: index.php:191 special-folder/trunk/index.php:119
+msgid "You do not have sufficient permissions to access this page."
+msgstr "غير مسموح لك بالدخول لهذه الصفحة"
+
+#: index.php:219 special-folder/trunk/index.php:147
+msgid "Special Folder Setting"
+msgstr "إعدادات الملف الخاص"
+
+#: index.php:237 special-folder/trunk/index.php:165
+msgid "IDs"
+msgstr "أرقام ID المواضيع"
+
+#: index.php:239 special-folder/trunk/index.php:167
+msgid "Separate IDs with comma"
+msgstr "إفضل بين المواضيع بعلامة الفاصلة"
+
+#: index.php:240
+msgid "Copy code and paste in page/post."
+msgstr "انسخ الكود وألصقه في الموضوع أو الصفحة"
+
+#: index.php:244 special-folder/trunk/index.php:171
+msgid "View by"
+msgstr "العرض بواسطة"
+
+#: index.php:246 special-folder/trunk/index.php:173
+msgid "List"
+msgstr "قائمة"
+
+#: index.php:247 special-folder/trunk/index.php:174
+msgid "Template"
+msgstr "القالب"
+
+#: index.php:250 special-folder/trunk/index.php:177
+msgid "Show Image"
+msgstr "إظهار الصورة"
+
+#: index.php:251 special-folder/trunk/index.php:178
+msgid "Show Excerpt"
+msgstr "إظهار الوصف"
+
+#: index.php:255 special-folder/trunk/index.php:182
+msgid "Update options"
+msgstr "تحديث الإعدادات"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.islam.com.kw"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will help editors create special folders on specific topics or "
+"events. You need just to insert the IDs of posts."
+msgstr ""
+"من خلال إضافة ملف خاص يستطيع المحرر إنشاء ملف خاص بداخلة عدة مواضيع, كل ما "
+"عليه هو إدراج أقام ID المواضيع"
+
+#. Author of the plugin/theme
+msgid "EDC Team (E-Da`wah Committee)"
+msgstr "فريق البرمجة - لجنة الدعوة الإلكترونية"
+
+#. Author URI of the plugin/theme
+msgid "http://www.islam.com.kw/DawahApps/"
+msgstr ""
+
+#~ msgid "Post Template"
+#~ msgstr "قالب الموضوع"
+
+#~ msgid ""
+#~ "You can use: <strong>{title}</strong>, <strong>{url}</strong>, "
+#~ "<strong>{excerpt}</strong>, <strong>{image}</strong>"
+#~ msgstr ""
+#~ "بإمكانك استخدام الأكواد التالية: <strong>{title}</strong>, <strong>{url}</"
+#~ "strong>, <strong>{excerpt}</strong>, <strong>{image}</strong>"
+
+#~ msgid ""
+#~ "Copy this code <strong style=\"color:blue;\">%s</strong> and paste in "
+#~ "post/page"
+#~ msgstr ""
+#~ "انسخ الكود التالي <strong style=\"color:blue;\">%s</strong> وألصقه في "
+#~ "محرر النصوص"
+
+#~ msgid "Custom CSS"
+#~ msgstr "كود CSS"

@@ -1,0 +1,16 @@
+.block {
+border: 1px solid #cccccc;
+background-color: #fff;
+padding: 15px;
+margin-bottom: 10px;
+}
+.post_thumb {
+float: left;
+margin-right: 10px;
+}
+.post_thumb img {
+display: inline !important;
+}
+.section_box {
+    border: 0px solid #d7d7d7;
+}
